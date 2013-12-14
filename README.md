@@ -1,6 +1,6 @@
 # My hello angular app - started from sprout (seed)
 
-Yeah
+Yeah baby
 
 ### Running the app during development
 
